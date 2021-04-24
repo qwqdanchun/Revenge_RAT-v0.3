@@ -1,0 +1,722 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C94D486F-B11B-427E-BE0B-0D99DD5E2039}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Revenge_RAT_v0._3.My.MyApplication</StartupObject>
+    <RootNamespace>Revenge_RAT_v0._3</RootNamespace>
+    <AssemblyName>Revenge_RAT v0.3</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Revenge_RAT v0.3.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Revenge_RAT v0.3.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>..\..\Revenge RAT v0.3\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>..\..\Revenge RAT v0.3\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="FastColoredTextBox, Version=2.16.21.0, Culture=neutral, PublicKeyToken=fb8aa12b994ef61b, processorArchitecture=MSIL">
+      <HintPath>..\packages\FCTB.2.16.21.0\lib\FastColoredTextBox.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IconLib">
+      <HintPath>..\..\Revenge RAT v0.3\IconLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WinMM.Net">
+      <HintPath>..\..\Revenge RAT v0.3\WinMM.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADDP.Designer.vb">
+      <DependentUpon>ADDP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ADDP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnimTab.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AudioGraph.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BLogs.Designer.vb">
+      <DependentUpon>BLogs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BLogs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CH.Designer.vb">
+      <DependentUpon>CH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CH_OP.Designer.vb">
+      <DependentUpon>CH_OP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CH_OP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clsCompressedString.vb" />
+    <Compile Include="CP.Designer.vb">
+      <DependentUpon>CP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CPUGraph.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CT.Designer.vb">
+      <DependentUpon>CT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DAE.Designer.vb">
+      <DependentUpon>DAE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DAE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DFURL.Designer.vb">
+      <DependentUpon>DFURL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DFURL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Entry_Form.Designer.vb">
+      <DependentUpon>Entry_Form.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Entry_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EPRN.Designer.vb">
+      <DependentUpon>EPRN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EPRN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileManager.Designer.vb">
+      <DependentUpon>FileManager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FileManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File_Properties.Designer.vb">
+      <DependentUpon>File_Properties.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File_Properties.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Functions.vb" />
+    <Compile Include="FXLSV.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FXTRV.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Getcountry.vb" />
+    <Compile Include="Helpers.vb" />
+    <Compile Include="HelpersAA.vb" />
+    <Compile Include="Keylogger.Designer.vb">
+      <DependentUpon>Keylogger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Keylogger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LIM.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LPRO.Designer.vb">
+      <DependentUpon>LPRO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LPRO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Microphone.Designer.vb">
+      <DependentUpon>Microphone.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Microphone.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Notification.Designer.vb">
+      <DependentUpon>Notification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Notification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PA.Designer.vb">
+      <DependentUpon>PA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Passwords.Designer.vb">
+      <DependentUpon>Passwords.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Passwords.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pastime.Designer.vb">
+      <DependentUpon>Pastime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pastime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PLU.vb" />
+    <Compile Include="Process_Properties.Designer.vb">
+      <DependentUpon>Process_Properties.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Process_Properties.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RAMGraph.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RemoteScreen.Designer.vb">
+      <DependentUpon>RemoteScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RemoteScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remote_WebCam.Designer.vb">
+      <DependentUpon>Remote_WebCam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Remote_WebCam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rve.Designer.vb">
+      <DependentUpon>Rve.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Rve.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Script.Designer.vb">
+      <DependentUpon>Script.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Script.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_Torrent.Designer.vb">
+      <DependentUpon>Select_Torrent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Select_Torrent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SocketServer.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Speed_Control.Designer.vb">
+      <DependentUpon>Speed_Control.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Speed_Control.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System_Information.Designer.vb">
+      <DependentUpon>System_Information.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System_Information.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System_Manager.Designer.vb">
+      <DependentUpon>System_Manager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System_Manager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToggleSwitch.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Torrent_Seeder.Designer.vb">
+      <DependentUpon>Torrent_Seeder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Torrent_Seeder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TOS_ABOUT.Designer.vb">
+      <DependentUpon>TOS_ABOUT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TOS_ABOUT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UltimatumTabControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VBHER.vb" />
+    <Compile Include="WCV.Designer.vb">
+      <DependentUpon>WCV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WCV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XylosSeparator.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XylosTabControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ADDP.resx">
+      <DependentUpon>ADDP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BLogs.resx">
+      <DependentUpon>BLogs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CH.resx">
+      <DependentUpon>CH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CH_OP.resx">
+      <DependentUpon>CH_OP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CP.resx">
+      <DependentUpon>CP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CT.resx">
+      <DependentUpon>CT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DAE.resx">
+      <DependentUpon>DAE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DFURL.resx">
+      <DependentUpon>DFURL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Entry_Form.resx">
+      <DependentUpon>Entry_Form.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EPRN.resx">
+      <DependentUpon>EPRN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FileManager.resx">
+      <DependentUpon>FileManager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File_Properties.resx">
+      <DependentUpon>File_Properties.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Keylogger.resx">
+      <DependentUpon>Keylogger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LPRO.resx">
+      <DependentUpon>LPRO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Microphone.resx">
+      <DependentUpon>Microphone.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notification.resx">
+      <DependentUpon>Notification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PA.resx">
+      <DependentUpon>PA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Passwords.resx">
+      <DependentUpon>Passwords.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pastime.resx">
+      <DependentUpon>Pastime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Process_Properties.resx">
+      <DependentUpon>Process_Properties.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoteScreen.resx">
+      <DependentUpon>RemoteScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Remote_WebCam.resx">
+      <DependentUpon>Remote_WebCam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rve.resx">
+      <DependentUpon>Rve.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Script.resx">
+      <DependentUpon>Script.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_Torrent.resx">
+      <DependentUpon>Select_Torrent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Speed_Control.resx">
+      <DependentUpon>Speed_Control.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System_Information.resx">
+      <DependentUpon>System_Information.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System_Manager.resx">
+      <DependentUpon>System_Manager.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Torrent_Seeder.resx">
+      <DependentUpon>Torrent_Seeder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TOS_ABOUT.resx">
+      <DependentUpon>TOS_ABOUT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WCV.resx">
+      <DependentUpon>WCV.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expand_less_white_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\expand_more_white_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UNI.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1480588346_folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_77.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.Png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mpress.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoRC.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resource_Hacker.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AppBigIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loading.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_Default.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\THE_MYSTERIES_LEGACY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\v_B01___3hud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tsunamii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dark_Slate_Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spring_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Steel_Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Teal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Night_Fury.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Light_Sea_Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gray.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ebony.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Darkness.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Corduroy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gondola.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Black_Currant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1476116434_bullet_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1476116499_bullet_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1476172385_bullet_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1476172388_bullet_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_thumb_14378800210shortcut_arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1476121459_application.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\window_app_blank_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1477596916_resultset_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1477596924_Stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\P.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1481030093_chrome_512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1481030174_pidgin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1481030115_Opera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1481030189_filezilla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1481030222_firefox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1481030243_ip_block.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_filehistory_162.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_109.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_110.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1481030260_thunderbird_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_shell32_37219.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_shell32_51380.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_184.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_112.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_115.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_imageres_75.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1472450092_mouse_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1472451892_keyboard_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1473000774_FullscreenExit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1472453350_save_add2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1472451891_keyboard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1472450093_mouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1472453348_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1473000728_full_screen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1478078554_webcam_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1478078555_webcam_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_1481204153_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
