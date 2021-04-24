@@ -120,6 +120,7 @@ Partial Class CP
         Me.Lim1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Lim1.Font = New System.Drawing.Font("Verdana", 8.0!)
         Me.Lim1.FullRowSelect = True
+        Me.Lim1.HideSelection = False
         Me.Lim1.LargeImageList = Me.ImageList1
         Me.Lim1.Location = New System.Drawing.Point(3, 3)
         Me.Lim1.MultiSelect = False

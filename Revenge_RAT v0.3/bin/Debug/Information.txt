@@ -1,0 +1,21 @@
+System Information
+Windows Version : ‏‏Microsoft Windows 10 Pro
+CPU Model : Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+PC Name : DESKTOP-CGOT7NO
+Current User : Shockwave
+Account Type : User
+Country : Unknown
+Default Language : ar-SA
+
+Security Software
+Antivirus : Windows Defender
+Firewall : N/A
+Antispyware : N/A
+
+Memory Status
+Total Physical : 15.94 GB
+Free Physical : 10.12 GB
+Used Physical : 5.82 GB
+Total Virtual : 128.00 TB
+Free Virtual : 128.00 TB
+Used Virtual : 4.61 GB

@@ -1,0 +1,182 @@
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.exe.config
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.exe
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.pdb
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.xml
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\FastColoredTextBox.dll
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\FastColoredTextBox.xml
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbprojResolveAssemblyReference.cache
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.ADDP.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.BLogs.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CH.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CH_OP.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CP.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CT.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.DAE.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.DFURL.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Entry_Form.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.EPRN.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.FileManager.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.File_Properties.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Keylogger.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.LPRO.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Main.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Microphone.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Resources.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Notification.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.PA.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Passwords.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Pastime.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Process_Properties.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.RemoteScreen.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Remote_WebCam.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Rve.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Script.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Select_Torrent.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Speed_Control.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.System_Information.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.System_Manager.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Torrent_Seeder.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.TOS_ABOUT.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.WCV.resources
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbproj.GenerateResource.Cache
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.exe
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.xml
+E:\Best Sources\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.pdb
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.exe.config
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.exe
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.pdb
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.xml
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\FastColoredTextBox.dll
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\FastColoredTextBox.xml
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbprojAssemblyReference.cache
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.ADDP.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.BLogs.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CH.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CH_OP.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CP.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CT.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.DAE.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.DFURL.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Entry_Form.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.EPRN.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.FileManager.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.File_Properties.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Keylogger.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.LPRO.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Main.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Microphone.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Resources.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Notification.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.PA.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Passwords.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Pastime.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Process_Properties.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.RemoteScreen.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Remote_WebCam.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Rve.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Script.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Select_Torrent.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Speed_Control.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.System_Information.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.System_Manager.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Torrent_Seeder.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.TOS_ABOUT.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.WCV.resources
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbproj.GenerateResource.cache
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbproj.CoreCompileInputs.cache
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbproj.CopyComplete
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.exe
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.xml
+C:\Users\Shockwave\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.pdb
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.exe.config
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.exe
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.pdb
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.xml
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\FastColoredTextBox.dll
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\bin\Debug\FastColoredTextBox.xml
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbprojAssemblyReference.cache
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.ADDP.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.BLogs.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CH.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CH_OP.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CP.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CT.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.DAE.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.DFURL.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Entry_Form.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.EPRN.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.FileManager.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.File_Properties.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Keylogger.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.LPRO.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Main.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Microphone.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Resources.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Notification.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.PA.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Passwords.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Pastime.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Process_Properties.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.RemoteScreen.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Remote_WebCam.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Rve.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Script.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Select_Torrent.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Speed_Control.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.System_Information.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.System_Manager.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Torrent_Seeder.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.TOS_ABOUT.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.WCV.resources
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbproj.GenerateResource.cache
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbproj.CoreCompileInputs.cache
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbproj.CopyComplete
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.exe
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.xml
+C:\Users\28718\Desktop\Revenge_RAT v0.3\Revenge_RAT v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.pdb
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.exe.config
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.exe
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.pdb
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\bin\Debug\Revenge_RAT v0.3.xml
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\bin\Debug\FastColoredTextBox.dll
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\bin\Debug\FastColoredTextBox.xml
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbprojAssemblyReference.cache
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.ADDP.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.BLogs.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CH.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CH_OP.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CP.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.CT.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.DAE.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.DFURL.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Entry_Form.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.EPRN.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.FileManager.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.File_Properties.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Keylogger.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.LPRO.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Main.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Microphone.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Resources.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Notification.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.PA.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Passwords.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Pastime.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Process_Properties.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.RemoteScreen.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Remote_WebCam.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Rve.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Script.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Select_Torrent.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Speed_Control.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.System_Information.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.System_Manager.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.Torrent_Seeder.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.TOS_ABOUT.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT_v0._3.WCV.resources
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbproj.GenerateResource.cache
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbproj.CoreCompileInputs.cache
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.vbproj.CopyComplete
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.exe
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.xml
+C:\Users\28718\Documents\GitHub\Revenge_RAT-v0.3\Revenge_RAT v0.3\obj\Debug\Revenge_RAT v0.3.pdb
